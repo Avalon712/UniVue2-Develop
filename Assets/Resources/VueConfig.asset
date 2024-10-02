@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca4d9995fe5dc57408e04f23254178df, type: 3}
+  m_Name: VueConfig
+  m_EditorClassIdentifier: 
+  _ruleSeparator: ' & '
+  _mode: 0
+  _defaultLanguage: 0
+  _useCache: 1
+  _maxHistoryRecord: 10
+  _flagsEnumSeparator: ' | '
+  _ignoreSymbol: 126
+  _skipSymbol: 64
+  _floatKeepBit: 2
+  _tableSize: 20
+  _whenValueIsNullThenHide: 1
+  _whenListLessUICountThenHideSurplus: 1
+  _whenFillAmountEqualZeroThenHide: 1
